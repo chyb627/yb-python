@@ -13,3 +13,16 @@ python
 $ python hello_world.py
 ```
 
+## 파이썬 가상환경
+
+```sh
+# 가상환경 생성
+$ python -m venv cha
+
+# 가상환경 활성화 (mac/linux)
+$ source cha/bin/activate
+
+# 가상환경에서 외부라이브러리 설치 해보기
+$ pip install requests
+
+```

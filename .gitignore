@@ -1,0 +1,21 @@
+# Python 가상 환경 폴더 무시
+venv/
+env/
+.venv/
+.env/
+
+# 파이썬 캐시 파일 무시
+__pycache__/
+*.py[cod]
+
+# 파이썬 환경 파일 무시
+*.env
+*.venv
+*.virtualenv
+
+# 설치된 라이브러리 무시
+*.egg-info/
+*.egg/
+dist/
+build/
+cha/
