@@ -23,6 +23,6 @@ $ python -m venv cha
 $ source cha/bin/activate
 
 # 가상환경에서 외부라이브러리 설치 해보기
-$ pip install requests
+$ pip install requests bs4
 
 ```
